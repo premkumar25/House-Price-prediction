@@ -12,9 +12,9 @@ House_price_test.ipynb is the model used for feature engineering for test datase
 
 Datasets used:
  <li>
-  test.csv - test dataset 
-  train.csv - training dataset
-  test_df.csv - test dataset after exploratory data analysis
+  <ul>test.csv - test dataset</ul> 
+  <ul>train.csv - training dataset</ul>
+  <ul>test_df.csv - test dataset after exploratory data analysis</ul>
 </li>
 
 Model is created using Google colab.
